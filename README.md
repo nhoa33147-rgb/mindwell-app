@@ -10,7 +10,7 @@
 
 > ⚙️ *Xem mã nguồn phân hệ Backend xử lý logic & AI [tại đây](https://github.com/nhoa33147-rgb/mindwell-server).*
 
-👉 **[Truy cập MindWell Web Emulator tại đây](https://appetize.io/embed/b_gz2l6hl4wqmptlh7veup3db2a4?centered=true)**
+> 👉 **[Truy cập MindWell Web Emulator tại đây](https://appetize.io/embed/b_gz2l6hl4wqmptlh7veup3db2a4?centered=true)**
 
 ## 🛠️ Công nghệ & Ngăn xếp (Tech Stack)
 *   **Framework**: React Native / Expo.
